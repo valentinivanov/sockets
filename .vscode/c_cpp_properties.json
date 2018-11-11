@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "null",
+            "includePath": [],
+            "defines": [],
+            "browse": {
+                "path": [],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "cpp_symbol_database"
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
